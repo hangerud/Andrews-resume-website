@@ -1,0 +1,266 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+ .header{
+       background: url('https://static.pexels.com/photos/14621/Warsaw-at-night-free-license-CC0-medium.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.header ul li {
+border-bottom: 4px solid #000;
+padding: 20px 20px 20px 20px;
+color: #fff;
+}
+.header .container {
+padding: 20px;
+        }
+
+.header .search h1 span {
+border: none;
+color: #fff;
+padding: 10px;
+display: inline-block;
+text-shadow: 0 2px 3px #000;
+  margin-bottom: 18px;
+
+}
+.header .nav, nav-pills{
+color: #fff;
+}
+
+.col-md-8 .btn:hover {
+background-color: #fff;
+}
+
+ 
+ .jumbotron {
+  background: url(https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/1622209_10152196463144280_1292528732_n.jpg?oh=77ee2115de81388d2643d634c0c1c5e8&oe=5809C786)no-repeat fixed;
+            background-size: cover;
+height: 900px;
+ }
+.jumbotron h1 {
+font-size: 65px;
+color: #fff;
+text-decoration: none;
+display: inline;
+list-style: none;
+padding: 20px;
+text-shadow: 0 2px 3px #000;
+}
+.jumbotron h1 li {
+margin: 5px;
+}
+ 
+h1 span {
+border: 1px;
+padding:20px 20px 20px;
+font-size: 40px;
+}
+.btn-default:hover {
+background-color:#1a77ff;
+}
+
+
+.header ul li:hover {
+background-color: #000;
+border-radius: 44px;
+}
+li .btn-default{
+
+margin-bottom: -4px;
+}
+.btn-default {
+            
+            border: 2px solid #000;
+            border-radius: 44px;
+            padding: 30px;           
+            color: #fff;
+            width: 85px;
+            background-color: #000;
+          
+            text-align: center;
+}
+.jumbotron .btn {
+  text-align: center;
+margin-left: 480px;
+border: 2px solid #000;
+border-radius: 44px;
+font-size:25px;
+
+}
+.jumbotron .btn:hover {
+color: #000;
+background-color: #fff;
+}
+.jumbotron span {
+padding-right: 400px;
+align: center;
+font-size: 45px;
+}
+.jumbotron h2 span {
+  color: #fff;
+  text-align: center;
+  margin-right: -250px;
+  position: relative;
+}
+
+.main {
+  position: relative;
+margin-top: -15px;
+}
+.main .main-main {
+  margin-top: -30px;
+}
+.main .move-up .content{
+    top: 260px;
+}
+
+.main video {
+  width: 100%;
+}
+
+.main .content {
+  position: absolute;
+  top: 200px;
+  width: 100%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+ }
+
+.main h1 {
+  font-size: 50px;
+ margin-bottom: 25px;
+  text-shadow: 0 2px 3px #000;
+color: #fff;
+}
+.main li {
+list-style: none;
+
+display: inline;
+margin-bottom: 40px;
+margin-right: 50px;
+}
+.main .btn-btn {
+      background-color: #4386fc;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 40px; 
+    font-weight: 300;
+    padding: 16px 26px;
+    text-decoration: none;
+    border-radius: 44px;
+  
+
+}
+.main .btn-btn:hover {
+color: #000;
+background-color: #fff;
+}
+.main .btn {
+  background: transparent;
+  border: 2px solid #000;
+  border-radius: 44px;
+  font-size: 25px;
+  color: #fff;
+}
+.main .btn:hover {
+  color: #000;
+  background-color: #fff;
+}
+.main .info li a {
+color: #fff;
+}
+.main .info .btn {
+  margin-top: 15px;
+}
+.support {
+background: cover;
+margin-top: -5px;
+
+}
+.support video {
+  width: 100%;
+}
+.supporting h1 {
+  font-size: 50px;
+ margin-top: 15px;
+  text-shadow: 0 2px 3px #000;
+color: #fff;
+}
+.supporting li {
+list-style: none;
+display: inline;
+margin-bottom: 40px;
+margin-right: 50px;
+}
+
+.supporting .btn {
+  background: transparent;
+  border: 2px solid #000;
+  border-radius: 44px;
+  font-size: 25px;
+  color: #fff;
+}
+.supporting .btn:hover {
+  color: #000;
+  background-color: #fff;
+}
+.supporting .info li a {
+color: #fff;
+}
+
+.footer li a {
+margin-top: 125px;
+text-shadow: 0 2px 3px #333;
+}
+
+.footer ul{
+ padding-top: 40px;
+  margin: 0;
+  list-style: none;
+color: #000;
+}
+
+.footer li {
+    display: inline;
+    margin-right: 40px;
+    font-size: 25px;
+padding-top: 25px;
+color: #000;
+display: inline;
+}
+
+
+
+.footer {
+  background-color: #1f3f5f;
+  padding: 50px 0;
+  color: #fff;
+margin-top: -35px;
+height: 200px;}
+
+
+.footer li {
+margin-top: 20px;
+}
+
+.footer .pull-right {
+  margin-left: 400px;
+  font-size: 25px;
+  margin-bottom: 240px;
+}
+.copy {
+margin-top: 40px;
+font-size: 25px;
+padding-left: -190px;
+}
+.footer .container li a{
+color: #fff;
+border-radius: 44px;
+}
